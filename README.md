@@ -54,4 +54,4 @@ This endpoint only needs a mandatory parameter in the body:
 
 ### Screenshots
 #### These are the screenshot of the results
-![alt text](https://github.com/ffauzann/tfa/blob/master/screemshots/login-failed.png?raw=true)
+![alt text](https://github.com/ffauzann/tfa/blob/master/screenshots/login-failed.png?raw=true)
