@@ -21,7 +21,7 @@ $ npm start
 ```
 
 ## How to use
-##### There are 3 endpoints you can use:
+#### There are 3 endpoints you can use:
 
 * __POST: /api/users/register__
 This endpoint is for a registration purpose. Everyone can access this endpoint. 
@@ -35,7 +35,7 @@ These are mandatory parameters you must fill in the body:
 
 * __POST: /api/users/login__
 
-Just like the registration, everyone can access this endpoint. You can get the __Bearer token__ if you login successfuly. 
+    Just like the registration, everyone can access this endpoint. You can get the __Bearer token__ if you login successfuly. 
 Please save the token to use it later.
 These are mandatory parameters you must fill in the body:
   + email
