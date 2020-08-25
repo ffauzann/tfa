@@ -54,4 +54,10 @@ This endpoint only needs a mandatory parameter in the body:
 
 ### Screenshots
 #### These are the screenshot of the results
-![alt text](https://github.com/ffauzann/tfa/blob/master/screenshots/login-failed.png?raw=true)
+![alt text](https://github.com/ffauzann/tfa/blob/master/screenshots/login-failed.png)
+![alt text](https://github.com/ffauzann/tfa/blob/master/screenshots/login-success.png?raw=true)
+![alt text](https://github.com/ffauzann/tfa/blob/master/screenshots/register-failed.png?raw=true)
+![alt text](https://github.com/ffauzann/tfa/blob/master/screenshots/register-success.png?raw=true)
+![alt text](https://github.com/ffauzann/tfa/blob/master/screenshots/tfa-authorization.png?raw=true)
+![alt text](https://github.com/ffauzann/tfa/blob/master/screenshots/tfa-failed.png?raw=true)
+![alt text](https://github.com/ffauzann/tfa/blob/master/screenshots/tfa-success.png?raw=true)
