@@ -24,7 +24,8 @@ $ npm start
 #### There are 3 endpoints you can use:
 
 * __POST: /api/users/register__
-This endpoint is for a registration purpose. Everyone can access this endpoint. 
+
+    This endpoint is for a registration purpose. Everyone can access this endpoint. 
 These are mandatory parameters you must fill in the body:
   + firstName
   + lastName
@@ -43,7 +44,9 @@ These are mandatory parameters you must fill in the body:
 
 
 * __POST: /api/users/tfa__
-This last one is a private endpoint. You __must__ put the __Bearer token__ in __Authorization__ of the headers.
+
+    This last one is a private endpoint. You __must__ put the __Bearer token__ in __Authorization__ of the headers.
 This endpoint only needs a mandatory parameter in the body:
   + code
-You can get the code from __Google Authenticator__ by using this key: __JZBF4OSMJ47U23ZTMFIGCVSHGRNX2ZJ6__ 
+
+    You can get the code from __Google Authenticator__ by using this key: __JZBF4OSMJ47U23ZTMFIGCVSHGRNX2ZJ6__ 
