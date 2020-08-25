@@ -34,6 +34,7 @@ These are mandatory parameters you must fill in the body:
 
 
 * __POST: /api/users/login__
+
 Just like the registration, everyone can access this endpoint. You can get the __Bearer token__ if you login successfuly. 
 Please save the token to use it later.
 These are mandatory parameters you must fill in the body:
